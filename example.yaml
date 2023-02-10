@@ -1,0 +1,16 @@
+Key: value 
+
+
+myList:
+ - item1
+ - item2
+ - item3 
+
+myDict:
+  key1: value1
+  key2: vlaue2
+
+
+multi-line-str: !
+  hello workd
+  thi is multiline writing in Yaml
